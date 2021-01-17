@@ -1,0 +1,25 @@
+.button {
+  width: 255px;
+  height: 90px;
+  display: flex;
+  justify-content: space-around;
+  cursor: pointer;
+  border: 1px solid #ebebeb;
+  height: fit-content;
+  border-radius: 22px;
+  user-select: none;
+}
+.button span {
+  width: fit-content;
+  height: fit-content;
+  background-color: #fff;
+  padding: 10px 30px;
+  border-radius: 25px;
+  color: #898a8e;
+  transition: 0.5s linear;
+}
+.button span.active {
+  background-color: #2500f9;
+  color: #fff;
+  transition: 1s linear;
+}

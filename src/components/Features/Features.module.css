@@ -14,8 +14,12 @@
 .featuresDescriptionContainer {
   display: flex;
   flex-direction: column;
+  margin-left: 50px;
 }
 .featuresDescriptionContainer h4 {
+  color: #888a8d;
+}
+.itemDescription {
   color: #888a8d;
 }
 .featuresHeading {
@@ -28,9 +32,13 @@
 }
 .itemContainer.centered {
   flex-direction: column;
+  margin: 50px 50px;
 }
 .itemContainer.centered .itemDescriptionContainer {
   align-items: center;
+}
+.itemContainer.centered .itemDescription {
+  text-align: center;
 }
 .itemIconCotaniner {
   margin-right: 20px;

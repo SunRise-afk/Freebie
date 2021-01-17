@@ -1,0 +1,26 @@
+.builtContainer {
+  width: 1200px;
+  margin: 100px auto 200px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.builtDescription {
+  display: flex;
+  flex-direction: column;
+  margin-left: 100px;
+}
+.builtDescription .builtHeading {
+  font-size: 36px;
+  margin: 0;
+}
+.builtDescription .builtParagraph {
+  color: #888a8d;
+}
+.imageContainer {
+  width: 100%;
+}
+.image {
+  max-width: 100%;
+  height: auto;
+}
