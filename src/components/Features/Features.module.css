@@ -1,0 +1,47 @@
+.featuresContainer {
+  width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.featuresPhone {
+  background-image: url("../../assets/featuresPhoneEllipse.png");
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.featuresDescriptionContainer {
+  display: flex;
+  flex-direction: column;
+}
+.featuresDescriptionContainer h4 {
+  color: #888a8d;
+}
+.featuresHeading {
+  font-size: 36px;
+}
+.itemContainer {
+  margin-top: 50px;
+  display: flex;
+  align-items: center;
+}
+.itemContainer.centered {
+  flex-direction: column;
+}
+.itemContainer.centered .itemDescriptionContainer {
+  align-items: center;
+}
+.itemIconCotaniner {
+  margin-right: 20px;
+  padding: 15px;
+  border-radius: 50%;
+}
+.itemDescriptionContainer {
+  display: flex;
+  flex-direction: column;
+}
+.itemDescriptionContainer h3,
+.itemDescriptionContainer h4 {
+  margin: 0;
+}

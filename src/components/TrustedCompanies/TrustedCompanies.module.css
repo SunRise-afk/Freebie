@@ -1,0 +1,19 @@
+.trustedContainer {
+  width: 1200px;
+  margin: 100px auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.trustedContainer h4 {
+  font-size: 16px;
+}
+.companiesContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.companiesContainer img {
+  margin-right: 60px;
+}

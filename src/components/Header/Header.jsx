@@ -1,5 +1,5 @@
 import React from "react";
-import { TryButton } from "../TryButton/TryButton";
+import { CustomButton } from "../CustomButton/CustomButton";
 import styles from "./Header.module.css";
 import headerPhone from "../../assets/headerPhone.png";
 
@@ -20,7 +20,7 @@ export const Header = () => {
             <li>Testiminial</li>
             <li>FAQ</li>
             <li>
-              <TryButton></TryButton>
+              <CustomButton title={"Try for free"}></CustomButton>
             </li>
           </ul>
         </nav>
@@ -39,7 +39,7 @@ export const Header = () => {
             personal budgets.
           </h3>
           <div className={styles.jumboLinks}>
-            <TryButton></TryButton>
+            <CustomButton title={"Try for free"}></CustomButton>
             <h4>Watch demo video</h4>
           </div>
         </div>
