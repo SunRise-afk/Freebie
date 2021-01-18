@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Freebie/static/css/main.272a3306.chunk.css",
+    "main.js": "/Freebie/static/js/main.f69c2679.chunk.js",
+    "main.js.map": "/Freebie/static/js/main.f69c2679.chunk.js.map",
+    "runtime-main.js": "/Freebie/static/js/runtime-main.3d22bc3e.js",
+    "runtime-main.js.map": "/Freebie/static/js/runtime-main.3d22bc3e.js.map",
+    "static/js/2.7f6f983f.chunk.js": "/Freebie/static/js/2.7f6f983f.chunk.js",
+    "static/js/2.7f6f983f.chunk.js.map": "/Freebie/static/js/2.7f6f983f.chunk.js.map",
+    "static/js/3.2870279c.chunk.js": "/Freebie/static/js/3.2870279c.chunk.js",
+    "static/js/3.2870279c.chunk.js.map": "/Freebie/static/js/3.2870279c.chunk.js.map",
+    "index.html": "/Freebie/index.html",
+    "static/css/main.272a3306.chunk.css.map": "/Freebie/static/css/main.272a3306.chunk.css.map",
+    "static/js/2.7f6f983f.chunk.js.LICENSE.txt": "/Freebie/static/js/2.7f6f983f.chunk.js.LICENSE.txt",
+    "static/media/UFPhoneBack.d9f2e441.png": "/Freebie/static/media/UFPhoneBack.d9f2e441.png",
+    "static/media/UltimateFeatures.module.css": "/Freebie/static/media/UFPhoneEllipse.a6873c8f.png",
+    "static/media/UFPhoneFront.e264aadd.png": "/Freebie/static/media/UFPhoneFront.e264aadd.png",
+    "static/media/clientCommentAuthor.5c0b4a20.png": "/Freebie/static/media/clientCommentAuthor.5c0b4a20.png",
+    "static/media/clientCommentMap.a2d1f99b.png": "/Freebie/static/media/clientCommentMap.a2d1f99b.png",
+    "static/media/designedBuilt.df97b41a.png": "/Freebie/static/media/designedBuilt.df97b41a.png",
+    "static/media/featuresPhone.b6d161c7.png": "/Freebie/static/media/featuresPhone.b6d161c7.png",
+    "static/media/Features.module.css": "/Freebie/static/media/featuresPhoneEllipse.22e600a4.png",
+    "static/media/footerImage.5afc61ca.png": "/Freebie/static/media/footerImage.5afc61ca.png",
+    "static/media/headerPhone.a3a2b22d.png": "/Freebie/static/media/headerPhone.a3a2b22d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d22bc3e.js",
+    "static/js/2.7f6f983f.chunk.js",
+    "static/css/main.272a3306.chunk.css",
+    "static/js/main.f69c2679.chunk.js"
+  ]
+}
