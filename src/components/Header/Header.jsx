@@ -5,7 +5,7 @@ import headerPhone from "../../assets/headerPhone.png";
 
 export const Header = () => {
   return (
-    <header className={styles.header}>
+    <header className={styles.header} id="home">
       <section className={styles.navContainer}>
         <div className={styles.logo}>
           <h2 className={styles.logoHeader}>
@@ -14,11 +14,21 @@ export const Header = () => {
         </div>
         <nav className={styles.nav}>
           <ul>
-            <li>Home</li>
-            <li>Key Features</li>
-            <li>Pricing</li>
-            <li>Testiminial</li>
-            <li>FAQ</li>
+            <li>
+              <a href="#home">Home</a>
+            </li>
+            <li>
+              <a href="#features">Key Features</a>
+            </li>
+            <li>
+              <a href="#pricing">Pricing</a>
+            </li>
+            <li>
+              <a href="#testiminial">Testiminial</a>
+            </li>
+            <li>
+              <a href="#faq">FAQ</a>
+            </li>
             <li>
               <CustomButton title={"Try for free"}></CustomButton>
             </li>

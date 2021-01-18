@@ -8,7 +8,7 @@ import featuresVector from "../../assets/featuresVector.png";
 
 export const Features = () => {
   return (
-    <section className={styles.featuresContainer}>
+    <section className={styles.featuresContainer} id='features'>
       <div className={styles.imageContainer}>
         <img src={featuresPhone} alt="" className={styles.featuresPhone} />
       </div>

@@ -1,6 +1,6 @@
 .builtContainer {
   width: 1200px;
-  margin: 100px auto 200px;
+  margin: 30px auto 150px;
   display: flex;
   justify-content: space-around;
   align-items: center;
@@ -15,6 +15,8 @@
   margin: 0;
 }
 .builtDescription .builtParagraph {
+  width: 90%;
+  word-break: break-all;
   color: #888a8d;
 }
 .imageContainer {

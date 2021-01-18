@@ -9,7 +9,7 @@ export const Subscribes = () => {
     setCurrentMonthly(!currentMonthly);
   };
   return (
-    <section className={styles.subscribes}>
+    <section className={styles.subscribes} id='pricing'>
       <h1 className={styles.subscribesHeading}>
         Get awesome features, without extra charges
       </h1>
@@ -50,7 +50,7 @@ export const Subscribes = () => {
             "Blog Support Tools",
             "eCommerce Store",
           ]}
-          buttonTitle={"Start free trial"}
+          buttonTitle={"Subscribe Now"}
         ></SubscribeCard>
       </div>
     </section>

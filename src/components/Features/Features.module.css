@@ -1,11 +1,15 @@
 .featuresContainer {
   width: 1200px;
-  margin: 0 auto;
+  margin: 0 auto 100px;
   display: flex;
   justify-content: space-around;
   align-items: center;
 }
+.imageContainer {
+  width: 60%;
+}
 .featuresPhone {
+  max-width: 100%;
   background-image: url("../../assets/featuresPhoneEllipse.png");
   background-size: contain;
   background-position: center;
@@ -32,7 +36,7 @@
 }
 .itemContainer.centered {
   flex-direction: column;
-  margin: 50px 50px;
+  margin: 50px 20px;
 }
 .itemContainer.centered .itemDescriptionContainer {
   align-items: center;
@@ -51,5 +55,6 @@
 }
 .itemDescriptionContainer h3,
 .itemDescriptionContainer h4 {
+  text-align: center;
   margin: 0;
 }

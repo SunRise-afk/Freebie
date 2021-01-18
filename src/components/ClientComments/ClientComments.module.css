@@ -1,0 +1,67 @@
+.clientCommentsContainer {
+  width: 1200px;
+  margin: 0 auto 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.commentsCol {
+  width: 50%;
+}
+.commentsImage {
+  max-width: 100%;
+  height: auto;
+}
+.commentsHeading {
+  font-size: 36px;
+}
+.commentsDescription {
+  color: #616368;
+}
+.commentStars i {
+  color: #ffcc00;
+  margin-right: 7px;
+}
+.commentsSubHeading {
+  font-size: 20px;
+}
+.comment {
+  font-size: 16px;
+  color: #616368;
+}
+.authorRow {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.authorInfo {
+  margin-left: 20px;
+}
+.authorName {
+  font-size: 18px;
+  margin: 0;
+}
+.authorStatus {
+  font-size: 18px;
+  color: #616368;
+  margin: 0;
+}
+.author {
+  display: flex;
+  align-items: center;
+}
+.commentSwitchButtons {
+  color: #b1b3b6;
+  font-size: 30px;
+}
+.commentSwitchButtons i {
+  border: 2px solid #b1b3b6;
+  border-radius: 50%;
+  padding: 10px;
+  margin-right: 20px;
+  cursor: pointer;
+}
+.commentSwitchButtons i:hover {
+  background-color: #b1b3b6;
+  color: #2500f9;
+}

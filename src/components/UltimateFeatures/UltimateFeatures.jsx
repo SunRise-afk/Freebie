@@ -58,7 +58,7 @@ export const UltimateFeatures = () => {
       </div>
       <div className={styles.featuresCol}>
         <div className={styles.phonesContainer}>
-          <img src={UFPhoneBack} alt="" />
+          <img src={UFPhoneBack} alt="" className={styles.phoneBack} />
           <img src={UFPhoneFront} alt="" className={styles.phoneFront} />
         </div>
       </div>
